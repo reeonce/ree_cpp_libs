@@ -1,0 +1,12 @@
+[submodule "ree_io"]
+	path = ree_io
+	url = git@github.com:reeonce/ree_io.git
+[submodule "ree_unittest"]
+	path = ree_unittest
+	url = git@github.com:reeonce/ree_unittest.git
+[submodule "ree_image"]
+	path = ree_image
+	url = git@github.com:reeonce/ree_image.git
+[submodule "ree_unittest_sample"]
+	path = ree_unittest_sample
+	url = git@github.com:reeonce/ree_unittest_sample.git
